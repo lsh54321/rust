@@ -1,6 +1,8 @@
 {
     "rust-analyzer.linkedProjects": [
+        ".\\lable1\\Cargo.toml",
         ".\\lable3\\Cargo.toml",
+        ".\\lable4\\Cargo.toml",
     ],
-    "rust-analyzer.showUnlinkedFileNotification": false
+    "rust-analyzer.showUnlinkedFileNotification": true
 }
